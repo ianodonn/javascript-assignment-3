@@ -19,3 +19,7 @@ while (i<6){
     div3.appendChild(div);
     i++;
 }
+
+var div4 = document.createElement("div");
+div4.className = "mountain";
+div1.appendChild(div4);
